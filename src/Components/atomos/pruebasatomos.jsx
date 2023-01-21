@@ -5,5 +5,5 @@ export function Pruebasatomos() {
   </Container>);
 }
 const Container =styled.div`
-  background-color:black;
+  background-color:white;
 `
