@@ -496,7 +496,7 @@ main {
 .rightMenu {
   width: 350px;
   height: calc(100% - 55px);
-  background: red;
+  background: rgb(250, 218, 213);
   position: fixed;
   right: 0;
   top: 55px;
